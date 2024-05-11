@@ -1,0 +1,13 @@
+site_name: Sutha's Notes
+site_description: Sutha's Notes
+
+theme:
+  name: material
+
+  extra_css:
+  - "css/stylesheet.css"
+
+nav:
+    - Home: 'index.md'
+    - Electronics:
+        - 'Contents': 'pages/electronics/index.md'
