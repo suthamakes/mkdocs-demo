@@ -1,11 +1,17 @@
 site_name: Sutha's Notes
 site_description: Sutha's Notes
 
+docs_dir: "docs"
+site_dir: "build"
+
+repo_name: "suthamakes/mkdocs-demo"
+repo_url: "https://github.com/suthamakes/mkdocs-demo"
+site_url: "https://suthamakes.github.io/mkdocs-demo/"
+
+
 theme:
   name: material
 
-  extra_css:
-  - "css/stylesheet.css"
 
 nav:
     - Home: 'index.md'
