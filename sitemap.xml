@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://suthamakes.github.io/mkdocs-demo/</loc>
+         <lastmod>2024-05-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://suthamakes.github.io/mkdocs-demo/books/</loc>
+         <lastmod>2024-05-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://suthamakes.github.io/mkdocs-demo/elec/</loc>
+         <lastmod>2024-05-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://suthamakes.github.io/mkdocs-demo/toc/</loc>
+         <lastmod>2024-05-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://suthamakes.github.io/mkdocs-demo/pages/electronics/</loc>
+         <lastmod>2024-05-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
