@@ -2,7 +2,7 @@ name: Build and Publish Documentation to GitHub Pages
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       # Only rebuild documentation when docs have changed
       - "docs/**"
